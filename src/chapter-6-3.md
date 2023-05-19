@@ -1,4 +1,4 @@
-Training Employees on New Systems and Processes - Using Blended Learning and Knowledge Transfer Techniques
+Using Blended Learning and Knowledge Transfer Techniques
 =====================================================================================================================
 
 Implementing new systems and processes in the workplace can be challenging, especially when it comes to training employees on how to use them effectively. In this chapter, we will discuss strategies for training employees on new systems and processes using blended learning and knowledge transfer techniques.
