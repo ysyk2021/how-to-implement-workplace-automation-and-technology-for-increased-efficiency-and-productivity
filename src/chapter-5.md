@@ -1,5 +1,3 @@
-Chapter 5: Selecting and Implementing Automation and Technology Solutions
-=========================================================================
 
 In this chapter, we will discuss the importance of selecting and implementing the right automation and technology solutions for your workplace, strategies for selecting and implementing these solutions, and using project management and change management techniques.
 

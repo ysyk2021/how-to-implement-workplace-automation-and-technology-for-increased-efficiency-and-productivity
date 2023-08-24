@@ -1,5 +1,3 @@
-Chapter 9: Applying Automation and Technology Skills to Career Advancement
-==========================================================================
 
 In this chapter, we will discuss the benefits of applying automation and technology skills to career advancement, strategies for using these skills to advance your career, and how to demonstrate leadership and innovation in the workplace.
 

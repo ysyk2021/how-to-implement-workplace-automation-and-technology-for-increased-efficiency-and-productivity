@@ -1,5 +1,3 @@
-Strategies for Managing Data Security and Privacy
-================================================================================================
 
 In this chapter, we will discuss strategies for managing data security and privacy when implementing workplace automation and technology.
 

@@ -1,5 +1,3 @@
-Chapter 7: Managing Data Security and Privacy
-=============================================
 
 Managing data security and privacy is a critical component of implementing workplace automation and technology for increased efficiency and productivity. In this chapter, we will explore some strategies for managing data security and privacy.
 

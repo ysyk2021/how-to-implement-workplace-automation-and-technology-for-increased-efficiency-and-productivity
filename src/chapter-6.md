@@ -1,5 +1,3 @@
-Chapter 6: Training Employees on New Systems and Processes
-==========================================================
 
 Training employees on new systems and processes is crucial to the successful implementation of workplace automation and technology. In this chapter, we will explore some strategies for training employees on new systems and processes.
 

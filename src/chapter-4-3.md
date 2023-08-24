@@ -1,5 +1,3 @@
-Using Cost-Benefit Analysis and ROI Calculations
-====================================================================================================================
 
 In this chapter, we will discuss how to use cost-benefit analysis and ROI calculations to identify opportunities for automation and technology.
 

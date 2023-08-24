@@ -1,5 +1,3 @@
-Definition of Workplace Automation and Technology
-================================================================================================================
 
 In order to implement workplace automation and technology effectively, it is important to have a clear understanding of what these terms mean and how they can be applied in the workplace. In this chapter, we will define workplace automation and technology.
 

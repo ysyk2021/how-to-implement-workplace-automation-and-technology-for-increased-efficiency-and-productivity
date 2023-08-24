@@ -1,5 +1,3 @@
-Using Process Mapping and Data Analysis Techniques
-==============================================================================================
 
 In this chapter, we will discuss how to use process mapping and data analysis techniques to analyze your current workflow.
 

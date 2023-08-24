@@ -1,5 +1,3 @@
-Strategies for Selecting and Implementing Automation and Technology Solutions
-========================================================================================================================================================
 
 In this chapter, we will discuss strategies for selecting and implementing automation and technology solutions.
 

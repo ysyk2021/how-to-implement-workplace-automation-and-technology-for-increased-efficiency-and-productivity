@@ -1,5 +1,3 @@
-Adjusting Automation and Technology Strategies Based on Feedback
-========================================================================================================================
 
 In this chapter, we will discuss the importance of measuring automation and technology success, as well as adjusting automation and technology strategies based on feedback.
 

@@ -1,5 +1,3 @@
-Strategies for Training Employees on New Systems and Processes
-==========================================================================================================================
 
 In this chapter, we will discuss strategies for training employees on new systems and processes.
 

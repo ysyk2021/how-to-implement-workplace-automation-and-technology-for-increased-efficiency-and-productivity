@@ -1,5 +1,3 @@
-Demonstrating Leadership and Innovation in the Workplace
-====================================================================================================================================
 
 In this chapter, we will discuss how applying automation and technology skills can help demonstrate leadership and innovation in the workplace.
 

@@ -1,5 +1,3 @@
-Using Project Management and Change Management Techniques
-====================================================================================================================================
 
 In this chapter, we will discuss how to use project management and change management techniques when selecting and implementing automation and technology solutions.
 

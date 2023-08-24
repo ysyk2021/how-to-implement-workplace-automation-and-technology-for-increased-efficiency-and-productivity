@@ -1,5 +1,3 @@
-Strategies for Using Automation and Technology Skills to Advance Your Career
-========================================================================================================================================================
 
 In this chapter, we will discuss strategies for using automation and technology skills to advance your career.
 

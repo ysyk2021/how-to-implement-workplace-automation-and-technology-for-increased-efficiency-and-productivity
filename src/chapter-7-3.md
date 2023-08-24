@@ -1,5 +1,3 @@
-Using Risk Management and Compliance Frameworks
-==============================================================================================
 
 In this chapter, we will discuss how to manage data security and privacy when implementing workplace automation and technology using risk management and compliance frameworks.
 

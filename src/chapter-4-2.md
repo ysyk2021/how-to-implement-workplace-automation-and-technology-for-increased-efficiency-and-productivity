@@ -1,5 +1,3 @@
-Strategies for Identifying Opportunities for Automation and Technology
-==========================================================================================================================================
 
 In this chapter, we will discuss strategies for identifying opportunities for automation and technology.
 

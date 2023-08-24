@@ -1,5 +1,3 @@
-Chapter 3: Analyzing Your Current Workflow
-==========================================
 
 Analyzing your current workflow is an essential step in implementing workplace automation and technology for increased efficiency and productivity. In this chapter, we will explore some strategies for analyzing your current workflow.
 

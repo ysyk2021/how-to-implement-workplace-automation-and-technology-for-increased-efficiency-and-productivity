@@ -1,5 +1,3 @@
-Chapter 4: Identifying Opportunities for Automation and Technology
-==================================================================
 
 In this chapter, we will discuss the role of identifying opportunities for automation and technology in increasing efficiency and productivity, strategies for identifying these opportunities, and using cost-benefit analysis and ROI calculations.
 

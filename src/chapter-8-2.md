@@ -1,5 +1,3 @@
-Analyzing Personal and Team Efficiency and Productivity Data and KPIs
-=============================================================================================================================
 
 In this chapter, we will discuss how to analyze personal and team efficiency and productivity data and KPIs to measure automation and technology success.
 

@@ -1,5 +1,3 @@
-Methods for Measuring Automation and Technology Success
-===============================================================================================================
 
 In this chapter, we will discuss methods for measuring automation and technology success.
 

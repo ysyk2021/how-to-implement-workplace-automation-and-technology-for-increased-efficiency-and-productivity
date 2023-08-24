@@ -1,5 +1,3 @@
-The Role of Training Employees on New Systems and Processes in Successful Implementation of Workplace Automation and Technology
-===========================================================================================================================================================================================
 
 In this chapter, we will discuss the importance of training employees on new systems and processes in the successful implementation of workplace automation and technology.
 

@@ -1,5 +1,3 @@
-Strategies for Analyzing Your Current Workflow
-==========================================================================================
 
 In this chapter, we will discuss strategies for analyzing your current workflow.
 

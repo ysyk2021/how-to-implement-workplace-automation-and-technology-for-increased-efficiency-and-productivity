@@ -1,5 +1,3 @@
-Chapter 8: Measuring Automation and Technology Success
-======================================================
 
 In this chapter, we will explore methods for measuring automation and technology success, analyzing personal and team efficiency and productivity data and KPIs, and adjusting automation and technology strategies based on feedback.
 
