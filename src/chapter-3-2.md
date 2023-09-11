@@ -1,5 +1,4 @@
-Chapter 5: Strategies for Analyzing Your Current Workflow
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Before embarking on the journey of implementing workplace automation and technology to boost efficiency and productivity, it's crucial to have a deep understanding of your current workflow. This chapter explores strategies for effectively analyzing your existing processes and workflows to identify areas for improvement and optimization.
 

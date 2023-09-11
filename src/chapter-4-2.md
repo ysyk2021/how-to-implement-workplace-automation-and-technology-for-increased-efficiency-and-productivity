@@ -1,5 +1,4 @@
-Chapter 3: Strategies for Identifying Opportunities for Automation and Technology
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The successful implementation of workplace automation and technology hinges on the ability to identify and seize opportunities where these tools can enhance efficiency and productivity. In this chapter, we will explore a range of strategies and methods for effectively identifying these opportunities.
 

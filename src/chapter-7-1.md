@@ -1,5 +1,4 @@
-Chapter 7: The Importance of Managing Data Security and Privacy in Workplace Automation and Technology
-======================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In an era driven by workplace automation and technology, the effective management of data security and privacy is of paramount importance. This chapter explores the critical significance of safeguarding sensitive information in the context of automation and technology adoption.
 

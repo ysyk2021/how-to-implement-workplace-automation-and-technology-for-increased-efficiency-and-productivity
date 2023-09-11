@@ -1,5 +1,4 @@
-Chapter 6: Using Cost-Benefit Analysis and ROI Calculations
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effectively implementing workplace automation and technology requires a clear understanding of the financial implications and potential returns on investment (ROI). In this chapter, we will explore how organizations can utilize cost-benefit analysis and ROI calculations to make informed decisions when adopting new technologies.
 

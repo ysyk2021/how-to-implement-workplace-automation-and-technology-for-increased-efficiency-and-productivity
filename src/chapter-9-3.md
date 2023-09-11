@@ -1,5 +1,4 @@
-Chapter 7: Demonstrating Leadership and Innovation in the Workplace
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the ever-evolving landscape of workplace automation and technology, demonstrating leadership and fostering innovation are critical for organizations and individuals seeking to thrive. This chapter explores the strategies and principles behind effective leadership and innovation in the context of automation and technology implementation.
 

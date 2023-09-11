@@ -1,5 +1,4 @@
-Chapter 8: The Benefits of Applying Automation and Technology Skills to Career Advancement
-==========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's rapidly evolving job market, automation and technology skills have become essential not only for individual career growth but also for remaining competitive in various industries. This chapter explores the profound advantages of acquiring and applying automation and technology skills to advance one's career.
 

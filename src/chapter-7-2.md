@@ -1,5 +1,4 @@
-Chapter 5: Strategies for Managing Data Security and Privacy
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's digitally-driven workplace, data security and privacy are paramount concerns. Implementing workplace automation and technology can significantly enhance efficiency and productivity, but it also brings new challenges in safeguarding sensitive information. This chapter explores essential strategies and best practices for effectively managing data security and privacy in the context of workplace automation.
 

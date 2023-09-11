@@ -1,5 +1,4 @@
-Chapter 8: Methods for Measuring Automation and Technology Success
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Implementing workplace automation and technology is a significant investment, and measuring its success is essential to ensure that the intended benefits are realized. This chapter explores various methods and metrics for evaluating the success of automation and technology initiatives, helping organizations gauge their impact on efficiency and productivity.
 

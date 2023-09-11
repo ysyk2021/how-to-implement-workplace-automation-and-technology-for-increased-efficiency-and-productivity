@@ -1,5 +1,4 @@
-Chapter 9: Strategies for Using Automation and Technology Skills to Advance Your Career
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Acquiring automation and technology skills is just the first step towards career advancement. This chapter delves into practical strategies that individuals can employ to leverage these skills effectively, stand out in the job market, and propel their careers to new heights.
 

@@ -1,5 +1,4 @@
-Chapter 5: Analyzing Personal and Team Efficiency and Productivity Data and KPIs
-================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the journey to implement workplace automation and technology for increased efficiency and productivity, data analysis plays a pivotal role. This chapter delves into the importance of analyzing personal and team efficiency and productivity data, along with key performance indicators (KPIs), to make informed decisions and drive continuous improvement.
 

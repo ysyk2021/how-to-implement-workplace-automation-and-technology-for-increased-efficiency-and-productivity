@@ -1,5 +1,4 @@
-Chapter 1: Definition of Workplace Automation and Technology
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In our journey to explore the implementation of workplace automation and technology for increased efficiency and productivity, it is essential to establish a clear understanding of what these terms encompass. This chapter will define and distinguish workplace automation and technology to provide a solid foundation for the subsequent discussions.
 

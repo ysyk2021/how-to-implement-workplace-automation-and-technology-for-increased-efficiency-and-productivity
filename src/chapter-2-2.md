@@ -1,5 +1,4 @@
-Chapter 5: The Impact of Workplace Automation and Technology on Personal and Professional Development
-=====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The introduction of workplace automation and technology has far-reaching effects on both personal and professional development. In this chapter, we will explore how these advancements shape individuals' growth, skill sets, and career trajectories.
 

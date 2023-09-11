@@ -1,5 +1,4 @@
-Chapter 5: Using Blended Learning and Knowledge Transfer Techniques
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Blended learning and knowledge transfer techniques are essential components when implementing workplace automation and technology to enhance efficiency and productivity. In this chapter, we will explore how organizations can effectively utilize blended learning approaches and knowledge transfer strategies to empower their workforce in adopting new technologies.
 

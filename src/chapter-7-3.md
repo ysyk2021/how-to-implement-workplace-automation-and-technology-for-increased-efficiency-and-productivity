@@ -1,5 +1,4 @@
-Chapter 6: Using Risk Management and Compliance Frameworks
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the journey to implement workplace automation and technology for increased efficiency and productivity, it's crucial to navigate potential risks and ensure compliance with relevant regulations. This chapter explores the utilization of risk management and compliance frameworks to mitigate risks and maintain a compliant and efficient workplace.
 
